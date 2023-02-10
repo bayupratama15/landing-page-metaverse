@@ -13,7 +13,7 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
-    quotes: [2, "single", { avoidEscape: true }],
+    quotes: "off",
     "react/no-unescaped-entities": 0,
     "eslintreact/no-danger": 0,
     "react/jsx-max-props-per-line": 0,
