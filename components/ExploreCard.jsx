@@ -43,9 +43,12 @@ const ExploreCard = ({
         </div>
         <a
           href={url}
+          rel="noreferrer"
           target="_blank"
-          className="font-normal text-[16px] leading-[20.16px] text-white uppercase"
+          className="font-normal text-[16px] leading-[20.16px]
+          text-white uppercase"
         >
+          {" "}
           Enter Apps
         </a>
 
