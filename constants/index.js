@@ -1,88 +1,93 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    id: "dapps",
+    imgUrl: "/planet-01.png",
+    title: "Lynx Dapps",
+    url: "https://lynxwallet.io/dapps",
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    id: "staking",
+    imgUrl: "/planet-02.png",
+    title: "Lynx Staking",
+    url: "https://lynxwallet.io/staking",
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    id: "farming",
+    imgUrl: "/planet-03.png",
+    title: "Lynx Farming",
+    url: "https://lynxwallet.io/farming",
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    id: "bridge",
+    imgUrl: "/planet-04.png",
+    title: "Lynx Bridge",
+    url: "https://lynxwallet.io/bridge",
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    id: "launchpad",
+    imgUrl: "/planet-05.png",
+    title: "Lynx Launchpad",
+    url: "https://lynxwallet.io/launchpad",
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  "Revolutionary platform that offers unparalleled security and transparency ",
+  "Fast transaction times and near-zero fees make it perfect for a wide range of applications ",
+  "Built on a decentralized blockchain network, meaning it is not controlled by any single entity or authority",
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: "/vrpano.svg",
+    title: "Secure and transparent token",
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+      "we have a transparent and secure token, which is a guarantee of the safety of your funds",
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: "/headset.svg",
+    title: "Trade safely and easily",
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      "We provide a platform for trading or looking for tokens safely and easily so that we avoid project scams.",
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/planet-06.png",
+    title: "The launch of the Metaverse makes Elon musk ketar-ketir",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/planet-07.png",
+    title: "7 tips to easily master the madness of the Metaverse",
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/planet-08.png",
+    title: "With one platform you can explore the whole world virtually",
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
   },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: "twitter",
+    url: "/twitter.svg",
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: "linkedin",
+    url: "/linkedin.svg",
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: "instagram",
+    url: "/instagram.svg",
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: "facebook",
+    url: "/facebook.svg",
   },
 ];
