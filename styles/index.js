@@ -18,6 +18,10 @@ const styles = {
     "font-bold lg:text-[80px] md:text-[100px] sm:text-[60px] text-[26px] sm lg:leading-[158.4px] md:leading-[114.4px] sm:leading-[74.4px] leading-[64.4px] uppercase text-white",
   heroDText:
     "md:w-[212px] sm:w-[80px] w-[60px] md:h-[108px] sm:h-[48px] h-[38px] md:border-[18px] border-[9px] rounded-r-[50px] border-white sm:mx-2 mx-[6px]",
+  btnWhitepaper:
+    "bg-white text-black font-bold uppercase text-sm px-6 py-3 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150",
+  btnContracAddress:
+    "bg-white text-black sm:w-[80px] font-bold uppercase text-sm px-6 py-3 rounded-full shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150",
 };
 
 export default styles;

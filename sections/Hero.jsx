@@ -26,6 +26,23 @@ const Hero = () => (
             The Future of Trade Safe
           </h6>
         </motion.div>
+        <motion.div>
+          <div
+            className="flex flex-row justify-center items-center "
+            style={{ marginBottom: "100px" }}
+          >
+            <motion.div variants={textVariant(1.3)}>
+              <a
+                className={styles.btnWhitepaper}
+                href="https://docs-lynxcoin.gitbook.io/whitepaper-v1/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Whitepaper
+              </a>
+            </motion.div>
+          </div>
+        </motion.div>
       </div>
 
       <motion.div
