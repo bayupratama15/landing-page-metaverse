@@ -3,31 +3,31 @@ export const exploreWorlds = [
     id: "dapps",
     imgUrl: "/planet-01.png",
     title: "Lynx Dapps",
-    url: "https://lynxwallet.io/dapps",
+    url: "https://apps.lynxcoin.io",
   },
   {
     id: "staking",
     imgUrl: "/planet-02.png",
     title: "Lynx Staking",
-    url: "https://lynxwallet.io/staking",
+    url: "https://apps.lynxcoin.io",
   },
   {
     id: "farming",
     imgUrl: "/planet-03.png",
     title: "Lynx Farming",
-    url: "https://lynxwallet.io/farming",
+    url: "https://apps.lynxcoin.io",
   },
   {
     id: "bridge",
     imgUrl: "/planet-04.png",
     title: "Lynx Bridge",
-    url: "https://lynxwallet.io/bridge",
+    url: "https://apps.lynxcoin.io",
   },
   {
     id: "launchpad",
     imgUrl: "/planet-05.png",
     title: "Lynx Launchpad",
-    url: "https://lynxwallet.io/launchpad",
+    url: "https://apps.lynxcoin.io",
   },
 ];
 

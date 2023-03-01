@@ -29,7 +29,10 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            Enter Lynxcoin
+            <a href="mailto:Admin@lynxcoin.io" className="text-white">
+              {" "}
+              Enter Lynxcoin
+            </a>
           </span>
         </button>
       </div>
