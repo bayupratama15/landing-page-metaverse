@@ -34,7 +34,7 @@ const Hero = () => (
             <motion.div variants={textVariant(1.3)}>
               <a
                 className={styles.btnWhitepaper}
-                href="https://docs-lynxcoin.gitbook.io/whitepaper-v1/"
+                href="https://docs.lynxcoin.io/"
                 target="_blank"
                 rel="noreferrer"
               >
