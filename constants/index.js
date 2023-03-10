@@ -6,10 +6,10 @@ export const exploreWorlds = [
     url: "https://apps.lynxcoin.io",
   },
   {
-    id: "staking",
+    id: "explorer",
     imgUrl: "/planet-02.png",
-    title: "Lynx Staking",
-    url: "https://apps.lynxcoin.io",
+    title: "Lynx Explorer",
+    url: "https://explorer.lynxcoin.io/",
   },
   {
     id: "farming",
